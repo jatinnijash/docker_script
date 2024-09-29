@@ -1,14 +1,14 @@
-Docker and Docker Compose Installation Script for Amazon EC2
-Purpose:
+#Docker and Docker Compose Installation Script for Amazon EC2
+#Purpose:
 
 This script automates the installation of Docker and Docker Compose on an Amazon EC2 instance, providing a streamlined and efficient setup process.
 
-Prerequisites:
+#Prerequisites:
 
 An Amazon EC2 instance with root or sudo privileges.
 An active internet connection.
-Installation:
 
+#Installation:
 Download the script: Save the script as install_docker_compose.sh.
 Make it executable: Run the following command:
 Bash
